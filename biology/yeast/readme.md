@@ -8,5 +8,4 @@ Yeast
 * Yeast species _Saccharomyces cerevisiae_ has been used in baking and fermenting alcoholic beverages for thousands of years.
 * Are chemoorganotrophs as they use organic compounds as a source of energy and do not require sunlight to grow.
 * Very common in the environment: (1) on skins of fruits and berries (e.g. grapes, apples, or peaches), (2) exudates from plants (e.g. plant saps or cacti), (3) in association with soil and insects, (4) between people's toes as part of their skin flora, (5) in the gut flora of mammals and some insects, (6) or even in deep-sea environments.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

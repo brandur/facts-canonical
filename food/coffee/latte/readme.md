@@ -7,5 +7,4 @@ Latte
 * Caffe Mediterraneum in Berkeley claims to have invented the latte, but it was popularized in Seattle in the early 1980s and spread more widely in the early 1990s, when its sudden trendiness made its drinkers a target of scorn.
 * Outside Italy, prepared in a 240 mL (8 oz) glass with 1 shot espresso and filled with steamed milk, with a layer of foamed milk ~12 mm thick on top.
 * Similar to a cappuccino, the difference being that the cappuccino has a ~20 mm layer of thick milk foam.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

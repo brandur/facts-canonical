@@ -7,5 +7,4 @@ Burj Khalifa
 * Laid end to end, the rods that reinforce the structure would stretch more than a quarter of the way around the world.
 * Known as **Burj Dubai** prior to its inauguration.
 * Officially opened 4 January 2010.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

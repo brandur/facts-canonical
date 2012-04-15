@@ -10,5 +10,4 @@ Graphene
 * _It would take an elephant, balanced on a pencil, to break through a sheet of graphene the thickness of Saran Wrap_.
 * Two scientists, Konstantin Novoselow and Andre Geim, were awarded the 2010 Nobel Price in physics for pioneering work in the discovery of graphene, which promises to revolutionize electronics and materials.
 * Andre Geim: compare the discovery of graphene to the discovery of polymers 100 years ago.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

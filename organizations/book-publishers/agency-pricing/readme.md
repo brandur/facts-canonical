@@ -8,5 +8,4 @@ Agency Pricing
 * Publisher gets 70%, and the retailer gets 30%.
 * If a book is discounted at a retailer, chances are the publisher isn't participating in agency pricing. Most small press publishers do not: Harlequin, Random House, Kensington.
 * Under agency pricing with a reduced sales price of $9.99, the agency publishers are making the same amount of money as its hardcover revenue.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

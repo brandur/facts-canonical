@@ -7,6 +7,7 @@ Larry Ellison
 * In order to settle an insider trading lawsuit arising from Ellison selling nearly $1B of Oracle stock, he was allowed to donate $100M to his own charitable foundation without admitting wrongdoing.
 * In response to 9/11, Ellison made a controversial offer to donate to the Federal government software that would enable it to build and run a national ID database.
 * One of the 50+ billionares to sign "the Giving Pledge". Has stated that he intends to give away 95% of his wealth to charitable causes.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Rising Sun

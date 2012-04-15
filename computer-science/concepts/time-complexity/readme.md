@@ -2,6 +2,7 @@ Time Complexity
 ===============
 
 * Quantifies the amount of time taken by an algorithm to run as a function of the size of the input of the problem.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Big O Notation

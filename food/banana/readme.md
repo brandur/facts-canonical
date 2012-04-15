@@ -9,5 +9,4 @@ Banana
 * Since 1992 a vigorous, pesticide-tolerant strain of Panama disease has started to wipeout bananas in Southeast Asia. So far it hasn't made the jump to the large commercial plantations in Latin America.
 * Bananas are clones, but very occasionally they can be persuaded to produce seeds through a painstaking process of hand pollination. Only 1 fruit in 300 will produce a seed, and of those, only 1 in 3 will have the correct chromosomal configuration to allow germination.
 * GM may be the best hope for the banana. In Honduras, researchers have developed a cultivar named 'Goldfinger' through traditional selective breeding methods. It has enjoyed some acceptance in Australia, but doesn't have the Cavendish flavour, and suffers a longer maturation time.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

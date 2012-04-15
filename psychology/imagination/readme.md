@@ -5,5 +5,4 @@ Imagination
 * Shortcoming (2): tendency to project the present onto the future. Easily seen when shopping on an empty stomach, or vowing to quit smoking after stubbing out a cigarette.
 * Shortcoming (3): failure to recognize that things will look different once they happen&mdash;in particular, that bad things will look a whole lot better. When imagining losing a job, we imagine the painful experience (boss marches into office ...), without also imagining how our psychological immune systems will transform its meaning (opportunity to quit retail sales and follow true calling as sculptor).
 * Information from "surrogates" can be used to overcome imagination's shortcomings and make more accurate predictions about the future. Most people don't like to do this.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

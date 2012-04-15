@@ -5,5 +5,4 @@ Asch Conformity Experiments
 * Participants provided incorrect answers to a high proportion of of questions (32%). 75% provided at least one incorrect answer.
 * With 3 or more confederates present, the tendency to conform is relatively stable.
 * Participants were more likely to give a correct answer if even a single confederate among the large group gave one. This seems to indicate the power of a small dissenting minority.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

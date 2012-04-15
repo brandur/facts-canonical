@@ -13,5 +13,4 @@ Gulf Stream
 * Volume of the Gulf Stream dwarfs all rivers that empty into the Atlantic combined (total ~0.6M m^3/s, while the Gulf Stream ranges from 30M to 150M m^3/s).
 * Typically 100 km wide and 800-1,200 m deep. Maximum velocity of ~2.5 m/s.
 * Temperature contrast along the edge often increases the intensity of cyclones, which requires water temperatures in excess of 26.5C.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

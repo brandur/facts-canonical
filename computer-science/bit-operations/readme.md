@@ -11,5 +11,4 @@ Bit Operations
 * Right propagate the rightmost 1-bit: y = x | (x - 1)
 * Isolate the rightmost 0-bit: y = ~x & (x + 1)
 * Turn on the rightmost 0-bit: y = x | (x + 1)
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

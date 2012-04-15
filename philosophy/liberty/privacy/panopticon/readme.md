@@ -6,5 +6,4 @@ Panopticon
 * Circular building divided into cells, each cell extending the entire thickness of the building to allow inner and outer windows. The cell occupants are backlit, and subject to scrutiny by an observe in a middle tower who remains unseen at all times.
 * Prisoners can't tell if they're being watched, conveying a sentiment of invisible omniscience.
 * Used as a metaphor for CCTV monitoring networks like what's deployed in England.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

@@ -15,5 +15,4 @@ Venus
 * Surface was finally mapped in detail by Project Magellan in 1990-91.
 * Planet has few impact craters, demonstrating that the surface is relatively young, 300-600M years old.
 * Has the elliptical orbit closest to circular in the Solar System.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

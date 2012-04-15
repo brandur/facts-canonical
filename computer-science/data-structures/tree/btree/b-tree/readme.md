@@ -6,5 +6,4 @@ B+ Tree
 * Usage in filesystems: NTFS, ReiserFS, NSS, XFS, and JFS. Usages in RDMSes: DB2, SQL Server, Oracle 8, PostgreSQL, Firebird, MySQL, and SQLite. Usage in NoSQL: CouchDB, Tokyo Cabinet.
 * Leaves in a B+ tree are oftened linked with a linked list; this makes range queries on the blocks simpler and more efficient. This does not substantially increase space consumption or maintenance. This illustrates a significant advantage of a B+ tree over a B-tree (in a B+tree, all records are in the leaf nodes).
 * The number of children for an internal node is constrainted by the order (or branching factor) of the tree.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

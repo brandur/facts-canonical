@@ -23,5 +23,4 @@ Canadian Charter of Rights and Freedoms
 * Section 14: **legal rights**: rights to an interpreter in a court proceeding.
 * Section 15: **equality rights**: equal treatment before and under the law, and equal protection and benefit of the law without discrimination.
 * Sections 16-23: **language rights**, mostly protecting English and French as the official languages in Canada and New Brunswick, but also protecting existing rights to use other languages.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

@@ -8,5 +8,4 @@ Costa Rica
 * Three main cash crops are bananas, pineapples, and coffee.
 * Only Latin American country included in the list of the world's 22 older democracies.
 * Population of 4.2M.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

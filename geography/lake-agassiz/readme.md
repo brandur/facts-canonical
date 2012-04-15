@@ -5,5 +5,4 @@ Lake Agassiz
 * Its area was greater than all of the modern Great Lakes combined (440 000 <math>km^2</math>), and it held more water than all lakes in the world today.
 * Lake Winnipeg, Lake Winnipegosis, Lake Manitoba, and Lake of the Woods are relics of the ancient lake.
 * Last major drainage was about 8400ya, into the Hudson Bay.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

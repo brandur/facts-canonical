@@ -10,6 +10,7 @@ Binary Tree
 * A **complete binary tree** is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
 * A **balanced binary tree** is one in whichthe height of the 2 subtrees of every node never differ by more than 1.
 * A **degenerate binary tree** is a tree where for each parent node, there is only one child. Performance-wise, this tree will behave like a linked list.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Binary Search Tree

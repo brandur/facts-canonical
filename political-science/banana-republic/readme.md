@@ -6,5 +6,4 @@ Banana Republic
 * In US politics, the term was first used by American writer O. Henry in _Cabbages and Kings_ (1904), a book derived from his 1896-97 residence in Honduras, where he was hiding from US law for bank embezzlement.
 * Imbalanced economy reduces national currency to devalued paper-money, making the country ineligible for international development credit.
 * Examples of banana republics: Guatemala and Honduras.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

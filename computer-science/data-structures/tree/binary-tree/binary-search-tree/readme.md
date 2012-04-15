@@ -6,5 +6,4 @@ Binary Search Tree
 * Major advantage is that sorting algorithms, search algorithms, and in-order traversal can be very efficient.
 * Fundamental data structure used to construct more abstract data structures such as sets, multisets, and associative arrays.
 * Out of binary search trees, treaps have been found to have the best average performance, while red-black trees have the smallest performance fluctuation.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

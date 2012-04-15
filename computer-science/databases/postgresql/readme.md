@@ -10,6 +10,7 @@ PostgreSQL
 * Tables can inherit characteristics from a parent table. Data in child tables will appear to exist in parent tables unless the `ONLY` keyword is used. Inheritance can be used to implement partitioning.
 * Uses **write-ahead logging** to implement **continuous arching** and **point-in-time recovery** for any database that has it enabled.
 * **TOAST** (The Oversized-Attribute Storage Technique) is used to transparently store large table attributes (such as big MIME attachments or XML messages) in a separate area with automatic compression.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 GiST

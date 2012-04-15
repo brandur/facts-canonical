@@ -9,6 +9,7 @@ B-tree
 * Usually the number of keys chosen varies between `d` and `2d`, the factor of 2 guarantees that nodes can be split or combined.The number of branches from a node will be _more_ than the number of keys stored in the node. e.g. In a 2-3 B-tree, nodes store either 1 key with 2 child nodes, or 2 keys with 3 child nodes.
 * Keeps balanced by requiring that all leaf nodes are at the same depth. Increases in overall depth are infrequent.
 * B-trees have substantial advantages when node access times far exceed access times within nodes, because the node access cost can be amortized over multiple node operations.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 B+ Tree

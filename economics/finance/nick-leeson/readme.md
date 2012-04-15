@@ -5,5 +5,4 @@ Nick Leeson
 * Released from Singapore jail in 1998 for good behavior after serving 3.5 years of the 6.5 year sentence.
 * Liquidators of Singapore for Barings seek the return of pound100M on any Barings-related earnings. Leeson has paid back less than pound500k.
 * Paid off 7-figure legal bill with profits from his book _Rogue Trader_.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

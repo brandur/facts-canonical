@@ -6,5 +6,4 @@ Millau Viaduct
 * Cost approximately euro400M.
 * Formally dedicated on 14 December 2004.
 * In 2012, will be surpassed by Mexico's Baluarte Bridge as the world's highest cable-stayed bridge.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

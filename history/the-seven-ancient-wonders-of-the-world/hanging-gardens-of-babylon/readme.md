@@ -5,5 +5,4 @@ Hanging Gardens of Babylon
 * Destroyed after 1st century BC by an earthquake.
 * Diodorus described multi-levelled gardens reaching 22 m high, complete with machinery for circulating water.
 * Built by Nebuchadnezzar II for his wife Amytis of Media.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

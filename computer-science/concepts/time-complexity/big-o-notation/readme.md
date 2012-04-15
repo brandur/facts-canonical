@@ -6,5 +6,4 @@ Big O Notation
 * Rules: (1) if f(x) is the sum of several terms, the one with the largest growth rate is kept, and all others are omitted; and (2) if f(x) is a product of several factors, any constants are omitted.
 * Ignoring lower order terms and coefficients has a negligible effect on the expression's value for most purposes.
 * Number of steps in an algorithm varies between machine types, but only by a constant factor, keeping a Big O approximation accurate.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

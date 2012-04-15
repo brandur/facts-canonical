@@ -11,6 +11,7 @@ Iceland
 * Free market economy with relatively low taxes, while maintaining a _Nordic welfare system_ providing universal health care and tertiary education.
 * In 2008, Iceland's banking system failed.
 * Smallest population of all NATO members, and only one with no _standing army_.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Althing

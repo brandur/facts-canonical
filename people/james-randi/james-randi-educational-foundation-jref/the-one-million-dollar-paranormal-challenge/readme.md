@@ -7,5 +7,4 @@ The One Million Dollar Paranormal Challenge
 * On _Larry King Live_ in 2001, King asked Sylvia Browne if she would take the challenge and she agreed. She later agreed again on the same show later in the year, but has since refused to be tested.
 * On _Larry King Live_ in 2001, Randi challenged Rosemary Altea to undergo the testing. She refused to address the question.
 * As an April Fool's prank in 2008 at the MIT Media Lab, Seth Raphael demonstrated his psychic abilities and was awarded the prize.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

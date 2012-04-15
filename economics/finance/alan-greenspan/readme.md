@@ -10,5 +10,4 @@ Alan Greenspan
 * In 2000, Greenspan raised interest rates serveral times; actions believed by many to have caused the bursting of the dot-com bubble.
 * In the 1950s, Greenspan was converted to Ayn Rand's philosophy of Objectivism. He became one of the members of Rand's inner circle, the Ayn Rand Collective, who read Atlast Shurgged while it was being written.
 * Ayn Rand stood beside him at his 1974 swearing-in as Chair of the Council of Economic Advisers. Greenspan and Rand remained friends until her death in 1982.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

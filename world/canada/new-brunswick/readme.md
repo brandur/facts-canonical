@@ -6,5 +6,4 @@ New Brunswick
 * Population of 750,000 (2009).
 * Large Francophone minority (33%), chiefly of Acadian origin.
 * Name comes from the city of Braunschweig in northern Germany.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

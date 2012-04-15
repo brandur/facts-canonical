@@ -3,6 +3,7 @@ Small Object Heap (SOH)
 
 * Objects are allocated to the SOH consecutively (contiguous heap), with .NET maintaining a next object pointer.
 * GC runs when memory usage reaches some threshold.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Generational Garbage Collection

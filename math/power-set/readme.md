@@ -5,5 +5,4 @@ Power Set
 * Any subset of <math>P(S)</math> is called a family of sets over <math>S</math>.
 * If <math>S</math> is a finite set of <math>|S| = n</math> elements, then the power set of <math>S</math> contains <math>|P(S)| = 2^n</math> elements.
 * The power set always has a strictly higher cardinality than the set itself.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

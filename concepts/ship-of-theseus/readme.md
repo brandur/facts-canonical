@@ -6,6 +6,7 @@ Ship of Theseus
 * Philosopher Thomas Hobbes wondered: what would happen if the original planks were gathered up after they were replaced, and used to build a second ship? Which ship, if either, is the original Ship of Theseus?
 * Aristotle's philosophical system presents a solution to the paradox through its 4 causes. The "what-it-is" of a thing is its formal cause, which is the design of a thing, therefore making the Ship of Theseus the same ship.
 * Buddhism states that the Ship of Theseus remains so until it ceases to function as the Ship of Theseus.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 George Washington's Axe

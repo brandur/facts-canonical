@@ -9,5 +9,4 @@ Examples
 * **Cubic time** `O(n^3)`: naive multiplication of two `n×n` matrices.
 * **Exponential time** `2^{O(n)}`: solving the traveling salesman problem using dynamic programming.
 * **Factorial time** `O(n!)`: solving the traveling salesman problem via brute-force search.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

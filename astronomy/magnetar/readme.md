@@ -8,5 +8,4 @@ Magnetar
 * Type of neutron star with a power magnetic field.
 * Strong magnetic fields decay after about 10k years.
 * A quake in 2004 on one, gave the equivalent of a dental X-ray to ISS astronauts at a range of 50k lightyears.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

@@ -6,5 +6,4 @@ Kopi Luwak
 * In the civet's stomach proteolytic enzymes seep into the beans, making shorter peptides and more free amino acids. Result is an aromatic and less bitter coffee.
 * Produced mainly on the islands of Smuatra, Java, Bali, and Sulawesi in the Indonesian Archipelago, but also in the Philippines, and East Timor.
 * USD $100-600/pound. Specialty Vietnamese weasel coffee from wild civets is $3000/pound. Most customers are in Asia--especially Japan, Taiwan, and South Korea.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

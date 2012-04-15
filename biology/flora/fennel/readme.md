@@ -6,5 +6,4 @@ Fennel
 * Highly aromatic and flavorful herb with culinary and medicinal uses. Along with similar-tasting anise, is one of the primary ingredients of absinthe.
 * Prometheus used a stalk of a fennel plant to steal fire from the gods.
 * It was from the giant fennel that the Bacchanalian wands of the god Dionysus and his followers were said to have come.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

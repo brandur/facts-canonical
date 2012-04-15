@@ -2,6 +2,7 @@ Constitutional
 ==============
 
 * It's not the Miranda "rights" , it's the Miranda "warning", the rights have always been around in the form of the constitution.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Canadian Charter of Rights and Freedoms

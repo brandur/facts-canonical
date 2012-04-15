@@ -9,5 +9,4 @@ Social Security
 * In 2010, 54M were receiving Social Security benefits, while 157M were paying into the fund.
 * In 2010, 44M were receiving retirement benefits, and 10M disability benefits.
 * Assets in 2010 were $2.6T, enough to cover the next 10 years. In 2023, total income and interest earned on assets is no longer projected to cover expenditures.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

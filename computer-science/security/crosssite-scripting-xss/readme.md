@@ -6,5 +6,4 @@ Cross-site Scripting (XSS)
 * Example of non-persistent attack: (1) Alice often visits a website hosted by Bob that stores sensitive data, (2) Mallory observes an XSS vulnerability in Bob's site, (3) Mallory crafts a URL to exploit the vulnerability and e-mails it to Alice, enticing her to click the link, (4) Alice visits the URL while logged into Bob's site, and (5) payload executes in Alice's browser as if it came directly from Bob's server, sending Alice's session cookie to Mallory.
 * Example of persistent attack: (1) Mallory posts a message with malicious payload to a social network, (2) Bob reads the message, Mallory's XSS steals Bob's cookie, and (3) Mallory can now hijack Bob's session.
 * XSS carried out on websites accounted for roughly 80% of all security vulnerabilities documented by Symantec as of 2007.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

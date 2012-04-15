@@ -8,5 +8,4 @@ Dazzle
 * Dazzles effectiveness was not certain, the British Admiralty concluded it had no effect on submarine attacks, but boosted crew morale. Civilians also liked having the wonderfully colored ships in dock.
 * Used less in WWII as rangefinders became more effective, and radar became more important.
 * Some modern uses: in Austria speed traps use dazzle to confuse drives as to the direction the radar is pointing. Car prototypes wear dazzle to hide the curves of the vehicle before it's ready for release.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

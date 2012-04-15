@@ -8,5 +8,4 @@ Stuxnet
 * Digitally signed with two authentic certificates which were stolen from authorities JMicron and Realtek.
 * Can upgrade itself via peer to peer if the control server is disabled.
 * There has been speculation that it was designed to target nuclear reactors in Iran.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

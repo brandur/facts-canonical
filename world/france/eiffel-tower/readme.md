@@ -12,5 +12,4 @@ Eiffel Tower
 * Con artist Victor Lustig "sold" the tower for scrap metal on two separate occasions in 1925.
 * Maintenance of the tower includes applying 50 to 60 tonnes of paint every 7 years to protect it from rust. In order to maintain a uniform apperance to an observer on the ground, 3 separate colours of paint are used on the tower with the darkest at the bottom. Polls are conducted to choose future paint colours.
 * Replica in Las Vegas is 1/2 scale (165 m).
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

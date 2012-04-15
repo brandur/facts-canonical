@@ -13,6 +13,7 @@ Coffee
 * **Wet processing:** flesh of berries is separated, and the beans are soaked in water for ~2 days to remove pulp and residue. Beans are then washed and dried in the sun or with drying machines. Used in Central America and areas in Africa.
 * **Dry processing:** twigs and cruft are separated from berries and the fruit is spread out in the sun on cement or brick for 2-3 weeks (turned regularly). Dried pulp is removed from beans afterwards. Cheaper and simpler, used for lower quality beans in Brazil and most of Africa.
 * After processing, husks are removed froom beans and roasted, which gives them their brown color.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Americano

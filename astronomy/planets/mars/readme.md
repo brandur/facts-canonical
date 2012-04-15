@@ -15,6 +15,7 @@ Mars
 * Rovers _Spirit_ and _Opportunity_ are on the surface, as well as other inert landers and rovers.
 * Thin atmosphere, less than 1% of Earth's surface pressure.
 * Surface temperature ranges from -87C during polar winters, to -5C in summers.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 Olympus Mons

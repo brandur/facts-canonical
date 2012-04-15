@@ -9,5 +9,4 @@ Productivity paradox
 * Explanation &mdash; Mismanagement: there are no gains because of the unusual difficulties in managing IT and information itself.
 * Explanation &mdash; Computers are not productive because they require time, a scarce complementary human input.
 * Explanation &mdash; Computers are productive but they pale into insignificance when compared to the industrial revolution, electrification, and infrastructures (canals and waterways, railroads, highway system).
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

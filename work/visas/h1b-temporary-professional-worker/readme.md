@@ -10,5 +10,4 @@ H-1B (Temporary Professional Worker)
 * Once a petition is approved, a Canadian beneficiary does _not_ need a passport visa from the US Consulate. This is a major advantage over citizens of other countries.
 * Requires that the intent of both the employer and employee be temporary. The position need not be temporary, but the worker's placement in it does.
 * An H-1 employee need not maintain a foreign residence.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 

@@ -12,6 +12,7 @@ James Randi
 * In 1981 on _That's My Line_, Randi exposed psychic James Hydrick who claimed that he could move things with his mind and demonstrated his ability by apparently turning a page in a telephone book. Randi, who determined that Hydrick was surreptitiously blowing on the book, arranged packaging peanuts on the table in front of the book, preventing Hydrick from demonstrating his abilities as the moving peanuts would have exposed him. Many years later, Hydrick admitted his fraud.
 * Awarded a MacArthur Foundation Genius award in 1986, which he used for a comprehensive expose of faith healers including Peter Popoff, WV Grant, and Ernest Angley.
 * In 1988, teamed up with Australia's _60 Minutes_ and perpetuated a fraud of his own, building up publicity for a spirit channeler named Carlos. Media and the public were taken in, and no reporters bothered checking Carlos's fabricated credentials. The hoax was exposed on _60 Minutes_.
+
 ** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
 James Randi Educational Foundation (JREF)

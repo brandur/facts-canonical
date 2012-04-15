@@ -6,5 +6,4 @@ Mausoleum of Halicarnassus
 * Stood ~45 m tall, with each of its four sides adorned by sculptural reliefs.
 * Origin of the word mausoleum.
 * Built for Mausolus, a satrap in the Persian Empire.
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
 
