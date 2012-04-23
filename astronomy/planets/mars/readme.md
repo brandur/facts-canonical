@@ -16,11 +16,3 @@ Mars
 * Thin atmosphere, less than 1% of Earth's surface pressure.
 * Surface temperature ranges from -87C during polar winters, to -5C in summers.
 
-** **DO NOT UPDATE CONTENT BELOW THIS LINE** **
-
-Olympus Mons
-------------
-
-* Stands 27 kilometres high above Mars' surface, about 3 times as tall as Mount Everest.
-* Tallest known volcano and mountain in the Solar System.
-
