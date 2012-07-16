@@ -1,3 +1,0 @@
-Spatial Data Partitioning Tree
-==============================
-

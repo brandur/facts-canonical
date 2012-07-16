@@ -1,3 +1,0 @@
-Laws of thermodynamics
-======================
-

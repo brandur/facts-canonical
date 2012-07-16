@@ -1,3 +1,0 @@
-Moammar Qaddafi
-===============
-
