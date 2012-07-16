@@ -1,5 +1,5 @@
-1st law
--------
+1st Law of Thermodynamics
+-------------------------
 
 * _Energy can be neither created nor destroyed. It can only change forms._
 * _In any process in an isolated system, the total energy remains the same._
