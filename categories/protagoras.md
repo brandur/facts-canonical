@@ -6,4 +6,4 @@ Protagoras
 * Born in Abdera Thrace, in Ancient Greece. Made his living as a porter, but was seen by the philosopher Democritus carrying a load of wood tied with a cord. Democritus discovered that the Protagoras had tied the load with such perfect geometric accuracy that it revealed him as a mathematic prodigy. He proceed to take Protagoras into his own household.
 * Plutarch and Protagroas spent a whole day discussing legal responsibility. "In an athletic contest a man had been accidentally hit and killed with a javelin. Was his death to be attributed to the javelin itself, to the man who threw it, or to the authorities responsible for the games?"
 * Especially interested in the question of whether virtue could be taught.
-* The crater Protagroas on the Moon is named in his honor.
+* The crater Protagoras on the Moon is named in his honor.
