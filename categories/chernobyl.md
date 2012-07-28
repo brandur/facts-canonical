@@ -10,7 +10,7 @@ Chernobyl
 * 28 of the 134 emergency workers involved in the accident died almost immediately due to ARS (Acute Radiation Syndrome). Approximately 4,000 deaths are attributable to the accident, most due to increased cancer risk.
 * The "exclusion zone", a 48 km radius from the reactor, has been sealed off since the explosion.
 * 2,500 employees maintain the remains of the plant, working in shifts to minimize their exposure to radiation.
-* Serveral hundred evacuees have returned to their villages despite the government ban.
+* Several hundred evacuees have returned to their villages despite the government ban.
 * Some firms offer tours of the restricted area, but the tours are illegal and safety is not guaranteed.
 * A new shell will be built by 2015. The new shelter will be 105 m tall, 260 m wide, 150 m long, weigh 20,000 tons, and will be slid over the old shelter using rail tracks. The new structure will be big enough to house the Notre Dame Cathedral or the Statue of Liberty. Cost expected to be $1.15B.
 * Ukraine plans to offer tours of the exclusion zone in 2011.
