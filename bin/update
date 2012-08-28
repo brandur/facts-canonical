@@ -42,7 +42,7 @@ payload = {
   facts: facts.map { |f| { content: f } },
 }
 
-puts "host=#{ENV["FACTS_HOST"]}/categories#{slug} method=PUT"
+puts "host=#{ENV["FACTS_HOST"]}/categories/#{slug} method=PUT"
 uri = URI.parse("#{ENV["FACTS_HOST"]}/categories/#{slug}")
 
 http = Net::HTTP.new(uri.host, uri.port)
