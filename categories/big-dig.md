@@ -8,3 +8,4 @@ Big Dig
 * As the result of deaths and design flaws, the consortium that oversaw the project agreed to pay $407M in restitution, and several smaller companies agreed to pay a combined sum of ~$51M.
 * 62% reduction in vehicle hours of travel on I-93, the airport tunnels, and the connection from Storrow Drive. The savings were estimated at $166M value in 2004-2005. However, a 2008 _Boston Globe_ report asserted that travel time for many commuters actually increased due to demand induced by increased road capacity.
 * Has an Operations Control Center (OCC) that monitors the road.
+* Public safety workers have called the walkway safety handrails in the tunnels "ginsu guarrails", because the square-off edges on support posts have caused mutilations and deaths of passengers from crashed vehicles. After an 8th reported death involving the rails, officials announced plans to remove some of the dangerous fixtures.
